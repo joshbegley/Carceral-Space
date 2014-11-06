@@ -1,1 +1,1 @@
-Location data for 5,393 prisons via the Prison Policy Initiative.
+Location data for 5,393 U.S. prisons. (Revisiting [prisonmap.com](http://prisonmap.com).) Data courtesy of the Prison Policy Initiative.
